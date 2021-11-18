@@ -3502,9 +3502,14 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  border-radius: 50%;
+  border-radius: 10%;
   -o-object-fit: cover;
   object-fit: cover;
+}
+
+.self_image {
+  background: rgb(97,22,4);
+  background: linear-gradient(90deg, rgba(97,22,4,1) 0%, rgba(180,66,30,1) 100%);
 }
 
 .hero-v1-info {
