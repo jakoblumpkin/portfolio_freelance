@@ -1783,9 +1783,25 @@ textarea.w-select {
 .w--tab-active {
   display: block;
 }
+
+.mobile-only {
+  display: none;
+}
+
+.desktop-only {
+  display: block;
+}
 @media screen and (max-width: 479px) {
   .w-tab-link {
     display: block;
+  }
+
+  .mobile-only {
+    display: block;
+  }
+
+  .desktop-only {
+    display: none;
   }
 }
 .w-ix-emptyfix:after {
@@ -1812,3 +1828,5 @@ textarea.w-select {
 .w-condition-invisible {
   display: none !important;
 }
+
+
