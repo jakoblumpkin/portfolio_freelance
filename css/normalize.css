@@ -354,3 +354,8 @@ td,
 th {
   padding: 0;
 }
+
+
+.w-dyn-empty div {
+  text-align: center;
+}
