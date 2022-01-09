@@ -1,0 +1,54 @@
+    <div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="intro margin">
+          <div class="text-label">testimonials</div>
+          <h2>What my clients say</h2>
+        </div>
+        <div class="testimonials">
+          <div data-duration-in="300" data-duration-out="100" data-current="Tab 1" data-easing="ease" class="review-tabs w-tabs">
+            <div class="review-tabs-menu w-tab-menu">
+              <a data-w-tab="Tab 1" class="review-tab-link w-inline-block w-tab-link w--current"><img src="images/testimonial-24-denis.jpg" sizes="100vw" srcset="images/testimonial-24-denis-p-500.jpeg 500w, images/testimonial-24-denis.jpg 600w" alt="" class="review-avatar"></a>
+              <a data-w-tab="Tab 2" class="review-tab-link w-inline-block w-tab-link"><img src="images/testimonial-29-nicole.jpg" alt="" class="review-avatar"></a>
+              <a data-w-tab="Tab 3" class="review-tab-link w-inline-block w-tab-link"><img src="images/testimonial-28-deena.jpg" alt="" class="review-avatar"></a>
+              <a data-w-tab="Tab 4" class="review-tab-link w-inline-block w-tab-link">
+                <div class="review-initials">B.D.</div>
+              </a>
+            </div>
+            <div class="tabs-content w-tab-content">
+              <div data-w-tab="Tab 1" class="review-tab w-tab-pane w--tab-active">
+                <div class="review-text">&quot;I think Webflow is the future of website design and front-end, and Elastic Themes helps to shape that future today by creating some great templates.&quot;</div>
+                <div class="review-info">
+                  <div class="review-author">Denis Pakhaliuk</div>
+                  <div class="review-author-bio">CEO of Ramotion</div>
+                </div>
+              </div>
+              <div data-w-tab="Tab 2" class="review-tab w-tab-pane">
+                <div class="review-text">&quot;I came across a beautifully designed template and was able to launch a gorgeous website in just 2 weeks. The design is elegant, and have received hundreds of compliments so far.&quot;</div>
+                <div class="review-info">
+                  <div class="review-author">Nicole Caba</div>
+                  <div class="review-author-bio">Happy customer</div>
+                </div>
+              </div>
+              <div data-w-tab="Tab 3" class="review-tab w-tab-pane">
+                <div class="review-text">&quot;The design and quality of code is excellent. I purchased a template to launch a new online media project and it was super easy and quick to set up with a stunning result.&quot;</div>
+                <div class="review-info">
+                  <div class="review-author">Deena Fox</div>
+                  <div class="review-author-bio">Happy customer</div>
+                </div>
+              </div>
+              <div data-w-tab="Tab 4" class="review-tab w-tab-pane">
+                <div class="review-text">&quot;The most useable and visually sexy templates I have seen in the Webflow store. They are like delicious pieces of candy.  Also, their service is as responsive as their websites.&quot;</div>
+                <div class="review-info">
+                  <div class="review-author">Brian DeSimone</div>
+                  <div class="review-author-bio">Happy customer</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="testimonials-circle"></div>
+        </div>
+        <div class="testimonials-cta">
+          <a href="contact.html" target="_blank" class="button testimonials-button w-button">Let&#x27;s Work Together</a>
+        </div>
+      </div>
+    </div>
