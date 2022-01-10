@@ -1,0 +1,100 @@
+<div class="section dark-section wf-section">
+      <div class="wrapper">
+        <div class="w-layout-grid shop-promo">
+          <div id="w-node-_6cd2bb0d-559f-7d3e-b6e2-66946c847eeb-75fa110b" class="shop-slider-intro">
+            <h2>My Digital Store</h2>
+            <div>Alii autem, quibus ego cum soluta nobis est laborum et fortibus viris commemorandis. Certe, inquam, pertinax non agenda<br>‍</div>
+            <a href="shop.html" class="shop-couter w-inline-block">
+              <div class="counter-number shop-counter-number">20+</div>
+              <div class="counter-info">
+                <div class="counter-name">Beautiful Templates</div>
+                <div class="counter-description shop-counter-descripton">view all products</div>
+              </div>
+            </a>
+          </div>
+          <div data-delay="4000" data-animation="cross" class="shop-slider w-slider" data-autoplay="false" data-easing="ease-out-quart" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="2" data-duration="800" data-infinite="true">
+            <div class="w-slider-mask">
+              <div class="shop-slide w-slide">
+                <div class="w-dyn-list">
+                  <div role="list" class="w-dyn-items">
+                    <div role="listitem" class="w-dyn-item">
+                      <a href="#" class="shop-item slider-item w-inline-block">
+                        <div class="shop-item-preview"><img src="" alt="" class="image"></div>
+                        <div class="shop-item-content">
+                          <div class="shop-item-info">
+                            <h4 class="shop-item-name"></h4>
+                            <div class="shop-item-description"></div>
+                          </div>
+                          <div class="shop-item-price-box">
+                            <div class="shop-item-price"></div>
+                            <div class="shop-item-price-old"></div>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="w-dyn-empty">
+                    <div>No items found.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="shop-slide w-slide">
+                <div class="w-dyn-list">
+                  <div role="list" class="w-dyn-items">
+                    <div role="listitem" class="w-dyn-item">
+                      <a href="#" class="shop-item slider-item w-inline-block">
+                        <div class="shop-item-preview"><img src="" alt="" class="image"></div>
+                        <div class="shop-item-content">
+                          <div class="shop-item-info">
+                            <h4 class="shop-item-name"></h4>
+                            <div class="shop-item-description"></div>
+                          </div>
+                          <div class="shop-item-price-box">
+                            <div class="shop-item-price"></div>
+                            <div class="shop-item-price-old"></div>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="w-dyn-empty">
+                    <div>No items found.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="shop-slide w-slide">
+                <div class="w-dyn-list">
+                  <div role="list" class="w-dyn-items">
+                    <div role="listitem" class="w-dyn-item">
+                      <a href="#" class="shop-item slider-item w-inline-block">
+                        <div class="shop-item-preview"><img src="" alt="" class="image"></div>
+                        <div class="shop-item-content">
+                          <div class="shop-item-info">
+                            <h4 class="shop-item-name"></h4>
+                            <div class="shop-item-description"></div>
+                          </div>
+                          <div class="shop-item-price-box">
+                            <div class="shop-item-price"></div>
+                            <div class="shop-item-price-old"></div>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="w-dyn-empty">
+                    <div>No items found.</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="shop-slider-arrow w-slider-arrow-left">
+              <div class="w-icon-slider-left"></div>
+            </div>
+            <div class="shop-slider-arrow w-slider-arrow-right">
+              <div class="w-icon-slider-right"></div>
+            </div>
+            <div class="shop-slider-nav w-slider-nav w-round"></div>
+          </div>
+        </div>
+      </div>
+    </div>

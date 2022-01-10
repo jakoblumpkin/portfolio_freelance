@@ -1,0 +1,30 @@
+ <div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="main-grid">
+          <div id="w-node-f849cfe8-8d4f-1715-9a46-258720ed911f-75fa110b" class="intro-left">
+            <h2>I love to create custom websites and templates</h2>
+            <div class="text-grey">Et quidem rerum necessitatibus saepe eveniet ut summum malum et quantum possit a philosophis compluribus permulta</div>
+          </div>
+          <div id="w-node-f849cfe8-8d4f-1715-9a46-258720ed9124-75fa110b" data-w-id="f849cfe8-8d4f-1715-9a46-258720ed9124" class="services">
+            <a id="w-node-f849cfe8-8d4f-1715-9a46-258720ed9125-75fa110b" href="portfolio.html" class="service w-inline-block">
+              <div style="display:block;-webkit-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0)" class="overlay"></div><img src="images/tyler-nix-n-uAFv0UOjM-unsplash.jpg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 100vw, 150.9875030517578px" srcset="images/tyler-nix-n-uAFv0UOjM-unsplash-p-500.jpeg 500w, images/tyler-nix-n-uAFv0UOjM-unsplash.jpg 800w" alt="" class="bg-image">
+              <div class="service-info">
+                <h4 class="service-heading">01. Freelance Work</h4>
+                <div class="service-description">Maioribus meis corrupisti nec voluptas assumenda. Filium morte multavit si sine causa, mox videro; interea, compluribus permulta omnis dolor.</div>
+              </div>
+            </a>
+            <a href="shop.html" class="service w-inline-block">
+              <div style="display:block;-webkit-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0)" class="overlay"></div><img src="images/georgiana-barbu-iZaXdCEjcks-unsplash.jpg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="100vw" srcset="images/georgiana-barbu-iZaXdCEjcks-unsplash-p-500.jpeg 500w, images/georgiana-barbu-iZaXdCEjcks-unsplash.jpg 800w" alt="" class="bg-image">
+              <div class="service-info">
+                <h4 class="service-heading">02. Digital Products</h4>
+                <div class="service-description">Maioribus meis corrupisti nec voluptas assumenda. Filium morte multavit si sine causa, mox videro; interea, compluribus permulta omnis dolor.</div>
+              </div>
+            </a>
+            <div class="service-card">
+              <div>I&#x27;m open for collaborations and partnerships. Feel free to <a href="contact.html">email me</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

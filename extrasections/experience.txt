@@ -1,0 +1,99 @@
+<div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="w-layout-grid main-grid">
+          <div id="w-node-_139cb275-9518-be80-7bab-eb046a955100-75fa110b" class="intro-left sticky">
+            <h2>My Experience</h2>
+            <div class="text-grey">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum, quod omnium philosophorum.<br>‍</div>
+            <a href="about.html" class="button w-button">About Me</a>
+          </div>
+          <div id="w-node-_139cb275-9518-be80-7bab-eb046a955105-75fa110b">
+            <div class="career-block">
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955107-75fa110b" class="career-date">2009 - 2010</div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955109-75fa110b" class="timeline">
+                <div class="timeline-dot"></div>
+              </div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a95510b-75fa110b" class="job-info">
+                <h3 class="job-heading">Marco Interactive</h3>
+                <div class="job-description">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum.</div>
+                <div class="tag-badge job-badge">Internship</div>
+              </div>
+            </div>
+            <div class="career-block">
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955113-75fa110b" class="career-date">2010 - 2011</div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955115-75fa110b" class="timeline">
+                <div class="timeline-dot"></div>
+              </div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955117-75fa110b" class="job-info">
+                <h3 class="job-heading">Digest Corp.</h3>
+                <div class="job-description">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum.</div>
+                <div class="tag-badge job-badge">Junior Designer</div>
+              </div>
+            </div>
+            <div class="career-block">
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a95511f-75fa110b" class="career-date">2011 - 2014</div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955121-75fa110b" class="timeline">
+                <div class="timeline-dot"></div>
+              </div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a955123-75fa110b" class="job-info">
+                <h3 class="job-heading">Calipso Agency</h3>
+                <div class="job-description">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum.</div>
+                <div class="tag-badge job-badge">Senior Designer</div>
+              </div>
+            </div>
+            <div class="career-block">
+              <div id="w-node-_052dfac7-c590-df2d-21d5-b6092d3a8b60-75fa110b" class="career-date">2015 - 2019</div>
+              <div id="w-node-_052dfac7-c590-df2d-21d5-b6092d3a8b62-75fa110b" class="timeline">
+                <div class="timeline-dot"></div>
+              </div>
+              <div id="w-node-_052dfac7-c590-df2d-21d5-b6092d3a8b64-75fa110b" class="job-info">
+                <h3 class="job-heading">Webflow Inc.</h3>
+                <div class="job-description">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum.</div>
+                <div class="tag-badge job-badge">Senior Designer</div>
+              </div>
+            </div>
+            <div class="career-block">
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a95512b-75fa110b" class="career-date">2019 - Present</div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a95512d-75fa110b" class="timeline">
+                <div class="timeline-dot"></div>
+              </div>
+              <div id="w-node-_139cb275-9518-be80-7bab-eb046a95512f-75fa110b" class="job-info">
+                <h3 class="job-heading">Freelance</h3>
+                <div class="job-description">At vero eos censes aut reiciendis voluptatibus maiores alias consequatur aut fugiat aliquid. Sunt autem quibusdam et ultimum bonorum.</div>
+                <div class="tag-badge job-badge">Freelancer</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="counters">
+          <div class="counter">
+            <div class="counter-number">5+</div>
+            <div class="counter-info">
+              <div class="counter-name">Years Experience</div>
+              <div class="counter-description">over 40 projects</div>
+            </div>
+          </div>
+          <div class="counter">
+            <div class="counter-number">12</div>
+            <div class="counter-info">
+              <div class="counter-name">Features &amp; Awards</div>
+              <div class="counter-description">from design community</div>
+            </div>
+          </div>
+          <div class="counter">
+            <div class="counter-number">98%</div>
+            <div class="counter-info">
+              <div class="counter-name">Clients Rating</div>
+              <div class="counter-description">30+ testimonials</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   
