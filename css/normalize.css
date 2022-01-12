@@ -359,3 +359,7 @@ th {
 .w-dyn-empty div {
   text-align: center;
 }
+
+.no-padding-bottom {
+   padding: 0px;
+}
