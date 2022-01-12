@@ -1,0 +1,20 @@
+<div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="intro wide">
+          <div class="text-label">My Expertise</div>
+          <h2>Focus on design</h2>
+          <div class="text-grey">Si sine causa, nollem me tamen laudandis maioribus meis corrupisti nec voluptas assumenda. Filium morte multavit si sine causa, mox videro; interea hoc tenebo, si ob.</div>
+          <div class="service-icons">
+            <div class="service-icon-box"><img src="images/monitor.svg" alt="" class="service-icon">
+              <h6 class="service-icon-heading">Design for Web <br>and Mobile</h6>
+            </div>
+            <div class="service-icon-box"><img src="images/pen.svg" alt="" class="service-icon">
+              <h6 class="service-icon-heading">Illustrations<br>and Icons</h6>
+            </div>
+            <div class="service-icon-box"><img src="images/camera.svg" alt="" class="service-icon">
+              <h6 class="service-icon-heading">Product <br>Photography</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

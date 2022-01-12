@@ -1,0 +1,89 @@
+ <div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="instagram">
+          <div class="instagram-info">
+            <h2 class="instagram-heading">Follow me on<br></h2>
+            <a href="#" class="instagram-link w-inline-block">
+              <h2 class="instagram-heading">Instagram<br></h2>
+              <div class="hover-line insta-line"></div>
+            </a>
+          </div>
+          <div class="instagram-photos">
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-1.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-2.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-3.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-4.jpg" alt="" class="bg-image absolute">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-section wf-section">
+      <div class="footer">
+        <div id="w-node-_039a8aaa-fb17-70ae-93eb-1d914075d988-4075d986" class="footer-nav">
+          <a href="index.html" aria-current="page" class="footer-nav-link w-inline-block w--current">
+            <div>Home</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="portfolio.html" class="footer-nav-link w-inline-block">
+            <div>Portfolio</div>
+            <div class="hover-line white"></div>
+          </a>
+          
+          <a href="video.html" class="footer-nav-link w-inline-block">
+            <div>Videos</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="about.html" class="footer-nav-link w-inline-block">
+            <div>About</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="contact.html" class="footer-nav-link w-inline-block">
+            <div>Contact</div>
+            <div class="hover-line white"></div>
+          </a>
+        </div>
+        <div class="footer-contact">
+          <h3 class="footer-heading">Let&#x27;s work together</h3>
+          <div class="footer-contact-text">Have a project in mind? Don’t hesitate to contact me <br>and get free consultation</div>
+          <div class="footer-contact-item"><img src="images/email-white.svg" alt="" class="footer-contact-icon">
+            <div>webflow@template.com</div>
+          </div>
+          <div class="footer-contact-item"><img src="images/phone-white.svg" alt="" class="footer-contact-icon">
+            <div>+1 (234) 567-89-10</div>
+          </div>
+        </div>
+        <div class="footer-links">
+          <a href="https://twitter.com" target="_blank" class="footer-link w-inline-block">
+            <div>Twitter</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="https://facebook.com" target="_blank" class="footer-link w-inline-block">
+            <div>Facebook</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="https://instagram.com" target="_blank" class="footer-link w-inline-block">
+            <div>Instagram</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="https://dribbble.com" target="_blank" class="footer-link w-inline-block">
+            <div>Dribbble</div>
+            <div class="hover-line white"></div>
+          </a>
+          <a href="https://behance.net" target="_blank" class="footer-link w-inline-block">
+            <div>Behance</div>
+            <div class="hover-line white"></div>
+          </a>
+        </div>
+      </div>

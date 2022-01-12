@@ -1,0 +1,19 @@
+<div class="section no-padding-top wf-section">
+      <div class="side-blocks">
+        <div data-w-id="ed988741-b672-3085-9d71-a2c264204df1" class="media-wrapper">
+          <div data-w-id="ed988741-b672-3085-9d71-a2c264204df2" style="opacity:0" class="location">
+            <div class="location-icon"><img src="images/flag-portugal_1flag-portugal.png" alt="" class="location-flag"></div>
+            <div class="location-info">
+              <div>currently in</div>
+              <div class="location-text">Lisbon, Portugal</div>
+            </div>
+          </div>
+          <div style="display:block;-webkit-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(2, 2, 1) rotateX(0) rotateY(0) rotateZ(45DEG) skew(0, 0)" class="overlay"></div><img src="images/rear-view-of-man-sitting-on-rock-by-sea-307008.jpg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.26, 1.26, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 991px) 100vw, 50vw" srcset="images/rear-view-of-man-sitting-on-rock-by-sea-307008-p-500.jpeg 500w, images/rear-view-of-man-sitting-on-rock-by-sea-307008-p-800.jpeg 800w, images/rear-view-of-man-sitting-on-rock-by-sea-307008-p-1080.jpeg 1080w, images/rear-view-of-man-sitting-on-rock-by-sea-307008.jpg 1600w" alt="" class="bg-image">
+        </div>
+        <div id="w-node-ed988741-b672-3085-9d71-a2c264204dfc-75fa110b" class="side-info">
+          <h2>As a digital nomad I travel and work from anywhere</h2>
+          <div class="text-grey">Et quidem rerum necessitatibus saepe eveniet ut summum malum et quantum possit a philosophis compluribus permulta</div>
+          <blockquote>Quae fuerit causa mox videro interea hoc epicurus in liberos atque haec ratio late patet in quo enim ipsam causam non fuisse torquem</blockquote>
+        </div>
+      </div>
+    </div>
