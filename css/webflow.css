@@ -1727,6 +1727,14 @@ textarea.w-select {
   .w-nav-brand {
     padding-left: 10px;
   }
+  .pricing-table {
+    width: 100% !important;
+  }
+
+  .panel-contact {
+    width: 80%;
+  }
+
 }
 @media screen and (max-width: 479px) {
   .w-nav[data-collapse="tiny"] .w-nav-menu {
@@ -1802,6 +1810,7 @@ textarea.w-select {
 
   .desktop-only {
     display: none;
+
   }
 }
 .w-ix-emptyfix:after {

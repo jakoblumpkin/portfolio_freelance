@@ -363,3 +363,7 @@ th {
 .no-padding-bottom {
    padding: 0px;
 }
+
+.contact_button {
+  width: 50% !important;
+}

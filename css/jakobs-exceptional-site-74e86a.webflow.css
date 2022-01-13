@@ -4301,7 +4301,7 @@ figcaption {
 
 .pricing {
   display: -ms-grid;
-  display: grid;
+  display: block;
   margin-right: auto;
   margin-left: auto;
   padding-top: 20px;
@@ -4334,6 +4334,8 @@ figcaption {
   border-color: #e4e8ed;
   border-radius: 12px;
   text-align: center;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .pricing-table.highlighted {
