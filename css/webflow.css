@@ -1716,6 +1716,10 @@ textarea.w-select {
   .w-nav[data-collapse="medium"] .w-nav-button {
     display: block;
   }
+
+  .pricing-table {
+    width: 80% !important;
+  }
 }
 @media screen and (max-width: 767px) {
   .w-nav[data-collapse="small"] .w-nav-menu {
@@ -1730,9 +1734,8 @@ textarea.w-select {
   .pricing-table {
     width: 100% !important;
   }
-
   .panel-contact {
-    width: 80%;
+    display: none !important;
   }
 
 }
@@ -1840,6 +1843,9 @@ textarea.w-select {
 
 .pricing-list-item {
   font-size: 25px !important;
+  margin: 10px 0;
 }
-
+.pricing-list-item div {
+  line-height: 1.2;
+}
 
