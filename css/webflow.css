@@ -1718,7 +1718,7 @@ textarea.w-select {
   }
 
   .pricing-table {
-    width: 80% !important;
+    width: 90% !important;
   }
 }
 @media screen and (max-width: 767px) {
