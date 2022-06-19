@@ -1,0 +1,31 @@
+    <div class="section no-padding-top wf-section">
+      <div class="wrapper">
+        <div class="instagram">
+          <div class="instagram-info">
+            <h2 class="instagram-heading">Follow me on<br></h2>
+            <a href="#" class="instagram-link w-inline-block">
+              <h2 class="instagram-heading">Instagram<br></h2>
+              <div class="hover-line insta-line"></div>
+            </a>
+          </div>
+          <div class="instagram-photos">
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-1.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-2.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-3.jpg" alt="" class="bg-image absolute">
+            </a>
+            <a href="https://instagram.com" target="_blank" class="instagram-preview w-inline-block">
+              <div class="instagram-hover"></div>
+              <div class="overlay"></div><img src="images/instagram-4.jpg" alt="" class="bg-image absolute">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
