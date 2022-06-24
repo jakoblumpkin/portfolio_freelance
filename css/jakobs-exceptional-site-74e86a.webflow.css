@@ -5592,7 +5592,7 @@ figcaption {
   font-size: 15px;
 }
 
-.contact-form {
+.contact-form1 {
   display: -ms-grid;
   display: grid;
   grid-auto-columns: 1fr;
@@ -7411,7 +7411,7 @@ figcaption {
     max-height: none;
   }
 
-  .contact-form {
+  .contact-form1 {
     grid-column-gap: 16px;
   }
 
@@ -8374,7 +8374,7 @@ figcaption {
     padding-left: 0px;
   }
 
-  .contact-form {
+  .contact-form1 {
     -ms-grid-columns: 100%;
     grid-template-columns: 100%;
   }

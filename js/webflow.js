@@ -64850,7 +64850,7 @@ var USYS_DOM_CLASS_NAMES = {
   formSuccess: 'w-form-success',
   formVerfication: 'w-form-verification',
   formError: 'w-form-fail'
-};
+}
 exports.USYS_DOM_CLASS_NAMES = USYS_DOM_CLASS_NAMES;
 var USYS_FORM_TYPES = {
   login: 'login',
@@ -75718,7 +75718,7 @@ Webflow.define('forms', module.exports = function ($, _) {
     } // data.form
 
 
-    reset(data);
+    /*reset(data);
     var wrap = $el.closest('div.w-form');
     data.done = wrap.find('> .w-form-done');
     data.fail = wrap.find('> .w-form-fail');
@@ -75729,7 +75729,7 @@ Webflow.define('forms', module.exports = function ($, _) {
     var action = data.action = $el.attr('action');
     data.handler = null;
     data.redirect = $el.attr('data-redirect'); // MailChimp form
-
+*/
     if (chimpRegex.test(action)) {
       data.handler = submitMailChimp;
       return;
