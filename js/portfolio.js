@@ -34,20 +34,16 @@ $(document).ready(function() {
 
 $("#next_project").on("click", function(event) {
     var length_ = project_data.length - 1;
-    if(index == length_) {
-       index = 0;
-    } else {
-       index ++;
-    }
+    if(index == length_) {index = 0;
+    } else {index ++;}
+
     setProject();
 });
 
 $("#previous_project").on("click", function(event) {
     var length_ = 0;
-    if(index == length_) {
-       index = project_data.length - 1;
-    } else {
-       index --;
-    }
+    if(index == length_) {index = project_data.length - 1;
+    } else {index --;}
+    
     setProject();
 });
