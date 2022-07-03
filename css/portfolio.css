@@ -1,0 +1,22 @@
+.w-dyn-item {
+
+}
+@media only screen and (min-width: 474px) {
+    .w-dyn-items {
+        position: relative;
+    }
+    .w-dyn-item {
+      width: 100%;
+    }
+
+    .works {
+        display: block;
+    }
+    #word-card_img {
+
+    }
+    .work-card {
+        width: 600px;
+        margin: 0 auto;
+    }
+  }
