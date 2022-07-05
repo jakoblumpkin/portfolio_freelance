@@ -10,9 +10,9 @@ var project_data = [
     title: "Two Clothes"
    },
    {
-    href: "https://easy-coffee1.myshopify.com",
+    href: "https://www.loom.com/share/47858ed0ea4242049c89f4f8e023c3ec",
     img: "images/easycoffee.PNG",
-    title: "Easy Coffee (Store Password: viewstore)"
+    title: "Easy Coffee"
    },
    {
     href: "https://www.loom.com/share/0ea9c96d16cc458abfea74830cbc9ae9",
