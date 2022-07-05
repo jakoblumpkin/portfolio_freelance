@@ -5,9 +5,9 @@ var index = 0;
 
 var project_data = [
     {
-    href: "https://two-clothes123.myshopify.com",
+    href: "https://www.loom.com/share/e964e4e589264d3b8295c9c079de087e",
     img: "images/twoclothes_img.png",
-    title: "Two Clothes (Store Password: viewstore)"
+    title: "Two Clothes"
    },
    {
     href: "https://easy-coffee1.myshopify.com",
