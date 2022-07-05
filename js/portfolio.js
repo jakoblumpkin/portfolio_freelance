@@ -15,9 +15,9 @@ var project_data = [
     title: "Easy Coffee (Store Password: viewstore)"
    },
    {
-    href: "https://galaxy-nomad-store.myshopify.com",
+    href: "https://www.loom.com/share/0ea9c96d16cc458abfea74830cbc9ae9",
     img: "images/galaxybox.PNG",
-    title: "Galaxy box (Store Password: viewstore)"
+    title: "Galaxy box"
    }
 ]
 
