@@ -1849,3 +1849,15 @@ textarea.w-select {
   line-height: 1.2;
 }
 
+.calendly a {
+  color: white;
+}
+
+.claendly-color-black a {
+  color: black;
+}
+
+.calendly a:hover {
+  text-decoration: underline;
+  color: #666d7a;
+}
